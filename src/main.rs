@@ -2,5 +2,5 @@
 use bevy::prelude::*;
 
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world2!");
 }
